@@ -1,0 +1,1 @@
+Sendet die Daten des Pixelflut Servers sowie die Traffic Date an eine InfluxDB
